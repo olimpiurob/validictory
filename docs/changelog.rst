@@ -3,7 +3,7 @@ validictory changelog
 
 1.0.0a2
 -------
-**2014-07-10**
+**2014-07-28**
     * ensure python 2.6 compatibility [olimpiurob]
 **2014-07-15**
     * ensure path to field is used in error
